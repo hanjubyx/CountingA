@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="statisticsTextView" type="id" />
+    <item name="randomParagraphTextView" type="id" />
+    <item name="generateRandomParagraphButton" type="id" />
+</resources>

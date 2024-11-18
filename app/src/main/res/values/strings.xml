@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountingA</string>
+    <string name="file_analyser" />
+    <string name="import_text_file" />
+    <string name="import_pdf_file" />
+    <string name="text_statistics" />
+    <string name="save_to_pdf" />
+</resources>
